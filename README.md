@@ -1,1 +1,1 @@
-# Geoghysics
+# Geogphysics
